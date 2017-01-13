@@ -338,8 +338,8 @@ public class MainActivity extends AppCompatActivity{
             } else if (params[1] == "4") {    // update
 
                 try {
-                    HttpURLConnection urlConn;
 
+                    HttpURLConnection urlConn;
                     DataOutputStream printout;
                     DataInputStream input;
                     url = new URL(cadena);
