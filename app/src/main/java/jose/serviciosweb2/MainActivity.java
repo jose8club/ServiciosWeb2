@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Enlaces con elementos visuales del XML
+        // Enlaces con elementos visuales del XM
 
         consultar = (Button) findViewById(R.id.consultar);
         consultarporid = (Button) findViewById(R.id.consultarid);
